@@ -1,0 +1,7 @@
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\bin\Debug\StateAreaCodes.exe.config
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\bin\Debug\StateAreaCodes.exe
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\bin\Debug\StateAreaCodes.pdb
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\obj\Debug\StateAreaCodes.csprojResolveAssemblyReference.cache
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\obj\Debug\StateAreaCodes.csproj.CoreCompileInputs.cache
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\obj\Debug\StateAreaCodes.exe
+C:\Users\count\Documents\Programming\COP2360-CSharp-Programming\Assignment 6\StateAreaCodes\StateAreaCodes\obj\Debug\StateAreaCodes.pdb
