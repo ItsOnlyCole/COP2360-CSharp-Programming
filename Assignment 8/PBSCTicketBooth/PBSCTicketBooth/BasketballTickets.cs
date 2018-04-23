@@ -20,8 +20,8 @@ namespace PBSCTicketBooth
             //Default Constructor
         }
 
-        public BasketballTickets(string opposingTeam, int quantity, double cost, DateTime date, DateTime time)
-            : base(quantity, cost, date, time)
+        public BasketballTickets(string opposingTeam, int quantity, double cost, DateTime date)
+            : base(quantity, cost, date)
         {
             this.opposingTeam = opposingTeam;
         }

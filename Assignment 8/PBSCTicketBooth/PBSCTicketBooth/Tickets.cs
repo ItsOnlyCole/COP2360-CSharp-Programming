@@ -23,14 +23,13 @@ namespace PBSCTicketBooth
             //Defualt Constructor
         }
 
-        public Tickets(int quantity, double cost, DateTime date, DateTime time)
+        public Tickets(int quantity, double cost, DateTime date)
         {
             this.quantity = quantity;
             this.cost = cost;
             seatNumber = new string[quantity];
             seatNumber = FillSeats(seatNumber);
             this.date = date;
-            this.time = time;
         }
 
         //Mutators and Accessors
@@ -40,7 +39,6 @@ namespace PBSCTicketBooth
         public void setCost(double cost) { this.cost = cost; }
         public DateTime GetDate() { return date; }
         public void SetDate(DateTime date) { this.date = date; }
-        public DateTime GetTime() { return time; }
         public string[] GetSeatNumber() { return seatNumber; }
         //Sets SeatNumber(s) with custom seat(s)
         public void SetSeatNumber(string[] seatNumber) { this.seatNumber = seatNumber; }

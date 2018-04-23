@@ -21,8 +21,8 @@ namespace PBSCTicketBooth
             //Default Constructor
         }
 
-        public MusicalTickets(string musicalName, string theaterLocation, int quantity, double cost, DateTime date, DateTime time)
-            : base(quantity, cost, date, time)
+        public MusicalTickets(string musicalName, string theaterLocation, int quantity, double cost, DateTime date)
+            : base(quantity, cost, date)
         {
             this.musicalName = musicalName;
             this.theaterLocation = theaterLocation;
